@@ -1,0 +1,9 @@
+body{
+    background-color: #FFDC5B;
+    background-size: cover;
+}
+/* Navbar */
+.navbar-brand{
+    font-family: Exo;
+    font-size: 40px;
+}
